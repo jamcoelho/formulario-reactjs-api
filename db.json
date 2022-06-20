@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "data": {
+        "slug": "beta test",
+        "title": "beta aa",
+        "description": "beta bb",
+        "content": "beta cc"
+      },
+      "id": 1
+    }
+  ]
+}
